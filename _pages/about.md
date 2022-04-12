@@ -11,4 +11,4 @@ redirect_from:
 
 About Me
 ======
-I am a machine learning scientist majorly interested in graph neural network (GNN) based small molecule property prediction including drug-drug interaction (DDI), drug-target interaction (DTI), toxicology prediction, side effects prediction, and etc. Please refer to my [CV](/_pages/cv.md) for more details.
+I am a machine learning scientist majorly interested in graph neural network (GNN) based small molecule property prediction including drug-drug interaction (DDI), drug-target interaction (DTI), toxicology prediction, side effects prediction, and etc. Please refer to my [CV](/cv/) for more details.
